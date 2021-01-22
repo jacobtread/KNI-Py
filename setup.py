@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="KNI-Jacobtread",  # Replace with your own username
-    version="1.0.0",
+    name="knij",  # Replace with your own username
+    version="1.0.1",
     author="Jacobtread",
     author_email="jacobtread@gmail.com",
     description=" KAMAR Notices Interface - A way to access notices from KAMAR in a bunch of languages (Python)",

@@ -5,6 +5,14 @@ KNI (KAMAR Notices Interface) is a project designed to bring a way of accessing 
 the [KAMAR](https://kamar.nz) portal software. KNIs goal is to produce usable libraries in as many
 languages as possible
 
+[![Supported Versions](https://img.shields.io/pypi/pyversions/knij.svg)](https://pypi.org/project/requests)
+
+KNI is available on PyPI:
+
+```console
+$ python -m pip install knij
+```
+
 
 ### Retrieving Notices
 ```python
